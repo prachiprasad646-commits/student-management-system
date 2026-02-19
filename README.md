@@ -30,17 +30,17 @@ The system implements 16 key requirements (a-p) including:
 
 ```bash
 git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
+cd student-management-system```
 
 ## Run the program
-python main.py
-
+```bash
+python main.py```
 
 ╔════════════════════════════════════════════════════════════════╗
 ║                     MAIN MENU OPTIONS                          ║
 ╠════════════════════════════════════════════════════════════════╣
 ║ a) Check college affiliation                                   ║
-║ b) Find best 2 IA marks and average                           ║
+║ b) Find best 2 IA marks and average                            ║
 ║ c) Classify subject types                                      ║
 ║ d,e) Check exam eligibility                                    ║
 ║ f) Pass/Fail count per subject                                 ║
