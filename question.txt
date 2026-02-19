@@ -1,0 +1,47 @@
+1) Read the following students' details in a file.
+
+Student Name: First Name, Middle Name, Last Name
+
+USN
+
+Read subject details: Subject name, Subject Code
+
+Six subject details following given format: Sub (IA1), Sub (IA2), Sub (IA3), Assignment Marks, Sub (Ext)
+
+Lab Subjects Marks: Lab IA, Continuous Evaluation Marks
+
+Fees per year
+
+Mentor name
+
+Perform the following operations:
+
+a) Find whether a student belongs to our college or not.
+
+b) Find the best of two IA marks and average of the same.
+
+c) Find subject is IPCC/Normal Subject/Normal Subject+Lab
+
+d) If the subject is IPCC check, the student got minimum marks in lab and subject; if not then display student is not eligible to appear for the main exam. Minimum passing percentage in lab and theory is 40% of the maximum marks.
+
+e) Check if the student got minimum marks or not in the normal subject and lab; if not then display student is not eligible to appear for the main exam. Similarly for plain subjects too.
+
+f) Find number of students passed and failed in each subject.
+
+g) Find top 3 toppers in each subject.
+
+h) Find top 3 toppers of a class.
+
+i) Find the number of students who failed in one, two, three, four, five, six, seven, eight etc subjects and display student details based on the number of subjects failed.
+
+j) Find number of students passed and failed in each subject and all subjects.
+
+k) Find number of distinctions, first class, second class and pass students per subject and in all subjects. Display student details as per the grade.
+
+l) Find students paid college fees or not; if not show the balance. If a fee is pending then ask the student to meet a mentor by specifying the mentor name to the student.
+
+m) Display student branch.
+
+n) Find number of students not appeared for the first IA, second IA, third IA individually.
+
+o) Find number of students not submitted assignments w.r.t. each subject. Total number of students not submitted assignments in all subjects.
