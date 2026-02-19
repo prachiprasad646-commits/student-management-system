@@ -30,11 +30,13 @@ The system implements 16 key requirements (a-p) including:
 
 ```bash
 git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system```
+cd student-management-system
+```
 
 ## Run the program
 ```bash
-python main.py```
+python main.py
+```
 
 ╔════════════════════════════════════════════════════════════════╗
 ║                     MAIN MENU OPTIONS                          ║
