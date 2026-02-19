@@ -34,7 +34,7 @@ cd student-management-system```
 
 ## Run the program
 ```bash
-python main.py ```
+python main.py```
 
 ╔════════════════════════════════════════════════════════════════╗
 ║                     MAIN MENU OPTIONS                          ║
