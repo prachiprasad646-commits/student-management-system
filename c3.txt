@@ -1,0 +1,671 @@
+Student 1
+Name: Ramesh Kumar
+USN: 1AC23CS001
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 32
+Sub(2IA): 35
+Sub(3IA): 30
+Assignment Marks: 8
+Sub(Ext): 34
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 28
+Sub(2IA): 30
+Sub(3IA): 26
+Assignment Marks: 7
+Sub(Ext): 36
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in C
+Subject Code: CS103
+Sub(1IA): 35
+Sub(2IA): 38
+Sub(3IA): 36
+Assignment Marks: 9
+Sub(Ext): 40
+Lab IA Marks: 45
+Continuous Evaluation Marks: 42
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 30
+Sub(2IA): 32
+Sub(3IA): 28
+Assignment Marks: 8
+Sub(Ext): 35
+Lab IA Marks: 40
+Continuous Evaluation Marks: 38
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 25
+Sub(2IA): 28
+Sub(3IA): 26
+Assignment Marks: 6
+Sub(Ext): 30
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 34
+Sub(2IA): 36
+Sub(3IA): 33
+Assignment Marks: 9
+Sub(Ext): 38
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 00
+fee_paid:00
+Mentor Name: Dr. Anil Kumar
+
+
+Student 2
+Name: Suresh Patel
+USN: 1AB23EC002
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 30
+Sub(2IA): 32
+Sub(3IA): 28
+Assignment Marks: 7
+Sub(Ext): 35
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 26
+Sub(2IA): 29
+Sub(3IA): 25
+Assignment Marks: 6
+Sub(Ext): 34
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in C
+Subject Code: CS103
+Sub(1IA): 36
+Sub(2IA): 38
+Sub(3IA): 35
+Assignment Marks: 9
+Sub(Ext): 39
+Lab IA Marks: 46
+Continuous Evaluation Marks: 44
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 28
+Sub(2IA): 30
+Sub(3IA): 27
+Assignment Marks: 7
+Sub(Ext): 32
+Lab IA Marks: 42
+Continuous Evaluation Marks: 40
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 24
+Sub(2IA): 26
+Sub(3IA): 25
+Assignment Marks: 6
+Sub(Ext): 28
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 33
+Sub(2IA): 35
+Sub(3IA): 32
+Assignment Marks: 8
+Sub(Ext): 36
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:50000
+Mentor Name: Dr. Anil Kumar
+
+
+Student 3
+Name: Anjali Rao
+USN: 1AB23AI003
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 35
+Sub(2IA): 36
+Sub(3IA): 34
+Assignment Marks: 9
+Sub(Ext): 38
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 31
+Sub(2IA): 33
+Sub(3IA): 30
+Assignment Marks: 8
+Sub(Ext): 37
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in Python
+Subject Code: CS107
+Sub(1IA): 38
+Sub(2IA): 39
+Sub(3IA): 37
+Assignment Marks: 10
+Sub(Ext): 40
+Lab IA Marks: 48
+Continuous Evaluation Marks: 46
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 34
+Sub(2IA): 35
+Sub(3IA): 33
+Assignment Marks: 9
+Sub(Ext): 38
+Lab IA Marks: 45
+Continuous Evaluation Marks: 43
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 29
+Sub(2IA): 31
+Sub(3IA): 28
+Assignment Marks: 7
+Sub(Ext): 34
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 36
+Sub(2IA): 37
+Sub(3IA): 35
+Assignment Marks: 9
+Sub(Ext): 39
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:90000
+Mentor Name: Dr. Kavitha R
+
+
+Student 4
+Name: Ravi Shankar
+USN: 1AB23AI004
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 22
+Sub(2IA): 24
+Sub(3IA): 20
+Assignment Marks: 5
+Sub(Ext): 26
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 18
+Sub(2IA): 20
+Sub(3IA): 0
+Assignment Marks: 4
+Sub(Ext): 22
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in C
+Subject Code: CS103
+Sub(1IA): 28
+Sub(2IA): 30
+Sub(3IA): 27
+Assignment Marks: 7
+Sub(Ext): 32
+Lab IA Marks: 35
+Continuous Evaluation Marks: 34
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 20
+Sub(2IA): 22
+Sub(3IA): 21
+Assignment Marks: 5
+Sub(Ext): 25
+Lab IA Marks: 28
+Continuous Evaluation Marks: 26
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 19
+Sub(2IA): 18
+Sub(3IA): 17
+Assignment Marks: 4
+Sub(Ext): 20
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 30
+Sub(2IA): 32
+Sub(3IA): 28
+Assignment Marks: 7
+Sub(Ext): 34
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:95000
+Mentor Name: Dr. Kavitha R
+
+
+Student 5
+Name: Priya N
+USN: 1AB23CS005
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 36
+Sub(2IA): 38
+Sub(3IA): 37
+Assignment Marks: 9
+Sub(Ext): 40
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 34
+Sub(2IA): 35
+Sub(3IA): 33
+Assignment Marks: 8
+Sub(Ext): 38
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in Python
+Subject Code: CS107
+Sub(1IA): 39
+Sub(2IA): 40
+Sub(3IA): 38
+Assignment Marks: 10
+Sub(Ext): 42
+Lab IA Marks: 48
+Continuous Evaluation Marks: 47
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 35
+Sub(2IA): 36
+Sub(3IA): 34
+Assignment Marks: 9
+Sub(Ext): 39
+Lab IA Marks: 46
+Continuous Evaluation Marks: 44
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 30
+Sub(2IA): 31
+Sub(3IA): 29
+Assignment Marks: 7
+Sub(Ext): 35
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 37
+Sub(2IA): 38
+Sub(3IA): 36
+Assignment Marks: 9
+Sub(Ext): 40
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:95000
+Mentor Name: Dr. Kavitha R
+
+Student 6
+Name: Akash Verma
+USN: 1AB23AI006
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 25
+Sub(2IA): 27
+Sub(3IA): 24
+Assignment Marks: 6
+Sub(Ext): 30
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 0
+Sub(2IA): 22
+Sub(3IA): 20
+Assignment Marks: 5
+Sub(Ext): 24
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in C
+Subject Code: CS103
+Sub(1IA): 32
+Sub(2IA): 33
+Sub(3IA): 31
+Assignment Marks: 8
+Sub(Ext): 34
+Lab IA Marks: 40
+Continuous Evaluation Marks: 38
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 26
+Sub(2IA): 28
+Sub(3IA): 25
+Assignment Marks: 6
+Sub(Ext): 29
+Lab IA Marks: 32
+Continuous Evaluation Marks: 30
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 23
+Sub(2IA): 25
+Sub(3IA): 22
+Assignment Marks: 5
+Sub(Ext): 27
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 29
+Sub(2IA): 31
+Sub(3IA): 28
+Assignment Marks: 7
+Sub(Ext): 33
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 85000
+Mentor Name: Dr. Sunita Rao
+
+Student 7
+Name: Neha Kulkarni
+USN: 1AB23CS007
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 34
+Sub(2IA): 35
+Sub(3IA): 33
+Assignment Marks: 8
+Sub(Ext): 37
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 28
+Sub(2IA): 30
+Sub(3IA): 29
+Assignment Marks: 7
+Sub(Ext): 34
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in Python
+Subject Code: CS107
+Sub(1IA): 36
+Sub(2IA): 38
+Sub(3IA): 37
+Assignment Marks: 9
+Sub(Ext): 40
+Lab IA Marks: 45
+Continuous Evaluation Marks: 44
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 32
+Sub(2IA): 34
+Sub(3IA): 31
+Assignment Marks: 8
+Sub(Ext): 36
+Lab IA Marks: 42
+Continuous Evaluation Marks: 40
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 27
+Sub(2IA): 29
+Sub(3IA): 26
+Assignment Marks: 6
+Sub(Ext): 31
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 35
+Sub(2IA): 36
+Sub(3IA): 34
+Assignment Marks: 9
+Sub(Ext): 38
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:10000
+Mentor Name: Dr. Kavitha R
+
+Student 8
+Name: Mohan Raj
+USN: 1AB23EC7777777777008
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 20
+Sub(2IA): 22
+Sub(3IA): 21
+Assignment Marks: 5
+Sub(Ext): 24
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 19
+Sub(2IA): 21
+Sub(3IA): 20
+Assignment Marks: 5
+Sub(Ext): 23
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in C
+Subject Code: CS103
+Sub(1IA): 30
+Sub(2IA): 32
+Sub(3IA): 29
+Assignment Marks: 7
+Sub(Ext): 33
+Lab IA Marks: 28
+Continuous Evaluation Marks: 26
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 24
+Sub(2IA): 26
+Sub(3IA): 25
+Assignment Marks: 6
+Sub(Ext): 28
+Lab IA Marks: 30
+Continuous Evaluation Marks: 29
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 18
+Sub(2IA): 20
+Sub(3IA): 19
+Assignment Marks: 4
+Sub(Ext): 22
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 31
+Sub(2IA): 32
+Sub(3IA): 30
+Assignment Marks: 7
+Sub(Ext): 35
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:95000
+Mentor Name: Dr. Sunita Rao
+
+Student 9
+Name: Pooja Shetty
+USN: 1AB23CS009
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 38
+Sub(2IA): 39
+Sub(3IA): 37
+Assignment Marks: 10
+Sub(Ext): 42
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 36
+Sub(2IA): 37
+Sub(3IA): 35
+Assignment Marks: 9
+Sub(Ext): 40
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in Python
+Subject Code: CS107
+Sub(1IA): 40
+Sub(2IA): 39
+Sub(3IA): 38
+Assignment Marks: 10
+Sub(Ext): 45
+Lab IA Marks: 49
+Continuous Evaluation Marks: 48
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 37
+Sub(2IA): 38
+Sub(3IA): 36
+Assignment Marks: 9
+Sub(Ext): 41
+Lab IA Marks: 47
+Continuous Evaluation Marks: 46
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 32
+Sub(2IA): 33
+Sub(3IA): 31
+Assignment Marks: 8
+Sub(Ext): 36
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 38
+Sub(2IA): 39
+Sub(3IA): 37
+Assignment Marks: 10
+Sub(Ext): 41
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:75000
+Mentor Name: Dr. Anil Kumar
+
+Student 10
+Name: Kiran Hegde
+USN: 1AB23CS010
+
+Subject Name: Mathematics
+Subject Code: MAT101
+Sub(1IA): 26
+Sub(2IA): 28
+Sub(3IA): 27
+Assignment Marks: 6
+Sub(Ext): 30
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Physics
+Subject Code: PHY102
+Sub(1IA): 24
+Sub(2IA): 26
+Sub(3IA): 25
+Assignment Marks: 6
+Sub(Ext): 29
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Programming in C
+Subject Code: CS103
+Sub(1IA): 34
+Sub(2IA): 35
+Sub(3IA): 33
+Assignment Marks: 8
+Sub(Ext): 36
+Lab IA Marks: 38
+Continuous Evaluation Marks: 37
+
+Subject Name: Data Structures
+Subject Code: CS104
+Sub(1IA): 29
+Sub(2IA): 30
+Sub(3IA): 28
+Assignment Marks: 7
+Sub(Ext): 32
+Lab IA Marks: 34
+Continuous Evaluation Marks: 33
+
+Subject Name: Electronics
+Subject Code: EC105
+Sub(1IA): 22
+Sub(2IA): 24
+Sub(3IA): 23
+Assignment Marks: 5
+Sub(Ext): 27
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+
+Subject Name: Environmental Studies
+Subject Code: EVS106
+Sub(1IA): 33
+Sub(2IA): 34
+Sub(3IA): 32
+Assignment Marks: 8
+Sub(Ext): 36
+Lab IA Marks: 0
+Continuous Evaluation Marks: 0
+Fees per Year: 95000
+fee_paid:95000
+Mentor Name: Dr. Kavitha R
