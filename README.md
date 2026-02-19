@@ -4,19 +4,6 @@
 
 A comprehensive Python-based Student Management System designed for educational institutions to manage student records, track academic performance, monitor fee payments, and generate various reports.
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Data Format](#-data-format)
-- [Features Explained](#-features-explained)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
 ## ✨ Features
 
 The system implements 16 key requirements (a-p) including:
@@ -39,9 +26,34 @@ The system implements 16 key requirements (a-p) including:
 - No external dependencies required
 
 ## 📦 Installation
-
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/student-management-system.git
 cd student-management-system
+
+## Run the program
+python main.py
+
+
+╔════════════════════════════════════════════════════════════════╗
+║                     MAIN MENU OPTIONS                          ║
+╠════════════════════════════════════════════════════════════════╣
+║ a) Check college affiliation                                   ║
+║ b) Find best 2 IA marks and average                           ║
+║ c) Classify subject types                                      ║
+║ d,e) Check exam eligibility                                    ║
+║ f) Pass/Fail count per subject                                 ║
+║ g) Top 3 toppers per subject                                   ║
+║ h) Top 3 class toppers                                         ║
+║ i) Failure distribution by subject count                       ║
+║ j) Overall pass/fail statistics                                ║
+║ k) Grade distribution                                          ║
+║ l) Fee payment status                                          ║
+║ m) Display student branches                                    ║
+║ n) IA absentee analysis                                        ║
+║ o) Assignment submission status                                ║
+║ p) Search student by USN                                       ║
+║ x) Display ALL reports                                         ║
+║ q) Exit                                                        ║
+╚════════════════════════════════════════════════════════════════╝
