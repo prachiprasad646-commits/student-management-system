@@ -1,9 +1,6 @@
 # 🎓 Student Management System
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/student-management-system)](https://github.com/yourusername/student-management-system/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/student-management-system)](https://github.com/yourusername/student-management-system/issues)
 
 A comprehensive Python-based Student Management System designed for educational institutions to manage student records, track academic performance, monitor fee payments, and generate various reports.
 
